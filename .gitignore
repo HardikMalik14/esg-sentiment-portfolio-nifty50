@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated data (recreated by the notebook)
+data/processed/
+outputs/models/model_predictions.csv
+logs/
+
+# Research papers (copyrighted; cite by DOI instead)
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

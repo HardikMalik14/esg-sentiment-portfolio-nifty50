@@ -1,0 +1,51 @@
+company_name,nse_symbol,yfinance_ticker,aliases
+Reliance Industries,RELIANCE,RELIANCE.NS,Reliance Industries|Reliance|RIL
+TCS,TCS,TCS.NS,Tata Consultancy Services|TCS
+HDFC Bank,HDFCBANK,HDFCBANK.NS,HDFC Bank
+ICICI Bank,ICICIBANK,ICICIBANK.NS,ICICI Bank|ICICI
+Infosys,INFY,INFY.NS,Infosys|INFY
+Hindustan Unilever,HINDUNILVR,HINDUNILVR.NS,Hindustan Unilever|HUL
+ITC,ITC,ITC.NS,ITC Limited|ITC
+SBI,SBIN,SBIN.NS,State Bank of India|SBI
+Bajaj Finance,BAJFINANCE,BAJFINANCE.NS,Bajaj Finance
+Bharti Airtel,BHARTIARTL,BHARTIARTL.NS,Bharti Airtel|Airtel
+Kotak Mahindra Bank,KOTAKBANK,KOTAKBANK.NS,Kotak Mahindra|Kotak Bank
+Wipro,WIPRO,WIPRO.NS,Wipro
+L&T,LT,LT.NS,Larsen & Toubro|L&T|LT
+Asian Paints,ASIANPAINT,ASIANPAINT.NS,Asian Paints
+HCL Tech,HCLTECH,HCLTECH.NS,HCL Technologies|HCL Tech
+Maruti Suzuki,MARUTI,MARUTI.NS,Maruti Suzuki|Maruti
+Titan,TITAN,TITAN.NS,Titan Company|Tanishq
+Sun Pharma,SUNPHARMA,SUNPHARMA.NS,Sun Pharmaceutical|Sun Pharma
+Axis Bank,AXISBANK,AXISBANK.NS,Axis Bank
+UltraTech Cement,ULTRACEMCO,ULTRACEMCO.NS,UltraTech Cement
+Nestle India,NESTLEIND,NESTLEIND.NS,Nestle India
+Tech Mahindra,TECHM,TECHM.NS,Tech Mahindra
+NTPC,NTPC,NTPC.NS,NTPC
+Power Grid,POWERGRID,POWERGRID.NS,Power Grid Corporation
+Tata Motors,TATAMOTORS,TATAMOTORS.NS,Tata Motors
+Tata Steel,TATASTEEL,TATASTEEL.NS,Tata Steel
+JSW Steel,JSWSTEEL,JSWSTEEL.NS,JSW Steel
+IndusInd Bank,INDUSINDBK,INDUSINDBK.NS,IndusInd Bank
+Dr Reddys,DRREDDY,DRREDDY.NS,Dr Reddys|DRL
+Divis Labs,DIVISLAB,DIVISLAB.NS,Divis Laboratories
+Cipla,CIPLA,CIPLA.NS,Cipla
+Eicher Motors,EICHERMOT,EICHERMOT.NS,Eicher Motors|Royal Enfield
+Bajaj Auto,BAJAJ-AUTO,BAJAJ-AUTO.NS,Bajaj Auto
+Hero MotoCorp,HEROMOTOCO,HEROMOTOCO.NS,Hero MotoCorp
+Grasim,GRASIM,GRASIM.NS,Grasim Industries
+Hindalco,HINDALCO,HINDALCO.NS,Hindalco Industries|Novelis
+Adani Enterprises,ADANIENT,ADANIENT.NS,Adani Enterprises|Adani
+Adani Ports,ADANIPORTS,ADANIPORTS.NS,Adani Ports|APSEZ
+Coal India,COALINDIA,COALINDIA.NS,Coal India
+ONGC,ONGC,ONGC.NS,ONGC
+BPCL,BPCL,BPCL.NS,Bharat Petroleum|BPCL
+IOC,IOC,IOC.NS,Indian Oil Corporation|IOC
+SBI Life,SBILIFE,SBILIFE.NS,SBI Life Insurance
+HDFC Life,HDFCLIFE,HDFCLIFE.NS,HDFC Life Insurance
+Shree Cement,SHREECEM,SHREECEM.NS,Shree Cement
+Apollo Hospitals,APOLLOHOSP,APOLLOHOSP.NS,Apollo Hospitals
+Britannia,BRITANNIA,BRITANNIA.NS,Britannia Industries
+HDFC AMC,HDFCAMC,HDFCAMC.NS,HDFC AMC
+Bajaj Finserv,BAJAJFINSV,BAJAJFINSV.NS,Bajaj Finserv
+Tata Consumer,TATACONSUM,TATACONSUM.NS,Tata Consumer Products

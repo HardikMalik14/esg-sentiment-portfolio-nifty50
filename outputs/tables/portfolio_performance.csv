@@ -1,0 +1,6 @@
+window,top_m,score_type,model,method,Ann_Return,Ann_Vol,Sharpe,N_Months
+70_30_split,10,ml_predicted_return,GB,TopN_EqualWeight,0.1303,0.3334,0.1957,5
+70_30_split,10,ml_predicted_return,LASSO,TopN_EqualWeight,0.0622,0.357,-0.0079,5
+70_30_split,10,ml_predicted_return,Linear,TopN_EqualWeight,-0.1799,0.1654,-1.481,5
+70_30_split,10,ml_predicted_return,RF,TopN_EqualWeight,0.265,0.3214,0.6221,5
+70_30_split,49,equal_weight,Equal,EqualWeight,-0.0101,0.2474,-0.3035,5
