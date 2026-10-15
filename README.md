@@ -82,7 +82,7 @@ git clone https://github.com/<your-username>/esg-sentiment-portfolio-nifty50.git
 cd esg-sentiment-portfolio-nifty50
 python -m venv .venv
 .venv\Scripts\activate          # Windows  (macOS/Linux: source .venv/bin/activate)
-pip install -r requirements.txt
+pip install -r requirements-notebook.txt
 jupyter notebook esg_sentiment_portfolio.ipynb
 ```
 
@@ -95,3 +95,16 @@ Python · pandas · NumPy · scikit-learn · vaderSentiment · yfinance · matpl
 ## Disclaimer
 
 This is a research and educational project, not investment advice.
+
+
+## Interactive Vercel dashboard
+
+This original repository includes **Verdant**, a redesigned ESG/ML research interface with a dark charcoal and emerald visual system. It reads the committed monthly return outputs, recalculates portfolio statistics for selected dates and assumptions, explores the scored original news snapshot, and scores new headlines using the original VADER and keyword logic. It does not retrain models on page load or implement reinforcement learning.
+
+Import this repository on Vercel with Framework **FastAPI**, root directory `./`, no environment variables, and default build/install/output settings. See [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md) for PowerShell deployment steps, features and limits.
+
+For the web app: `pip install -r requirements.txt` and `uvicorn index:app --reload`.
+
+For the unchanged notebook pipeline: `pip install -r requirements-notebook.txt` and open `esg_sentiment_portfolio.ipynb`.
+
+The dashboard preserves and prominently labels the original backtest's look-ahead bias, short sample, partial final month and missing transaction costs.
