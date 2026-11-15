@@ -6,6 +6,21 @@ Inspired by Feng et al., *Sustainable Portfolio Construction via Machine Learnin
 
 ![Cumulative portfolio returns](outputs/figures/cumulative_returns.png)
 
+## Project Contributors
+
+This project was jointly developed by **Aman Nafees** and **Hardik Malik** as a collaborative research and implementation effort.
+
+The project explores the integration of ESG and SDG news sentiment with machine learning techniques for portfolio construction and performance evaluation in the Indian equity market.
+
+### Project Team
+
+| Contributor | Role |
+|---|---|
+| **Aman Nafees** | Co-developer & Research Collaborator |
+| **[Hardik Malik](https://github.com/HardikMalik14)** | Co-developer & Research Collaborator |
+
+Both contributors are acknowledged for their collaborative involvement in the development of this project. Although the repository is hosted under Hardik Malik's GitHub account, the project represents a **joint effort**, with credit shared between both team members.
+
 ## Pipeline
 
 ```
